@@ -29,6 +29,15 @@
 <br>
 
 <hr>
+
+Proyectos Destacados 
+<ul>
+<li>Desarrollo de una aplicación para impulsar el crecimiento de talentos emergentes permitiendo publicitar eventos, crearlos y vender entradas de una forma rápida y sencilla.</li>
+<li>Proyecto individual de Pokemon</li>
+<li>Backend de servicios</li>
+</ul>
+
+
 <b> Contáctame</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <br>
