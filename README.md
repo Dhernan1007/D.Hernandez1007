@@ -30,15 +30,17 @@
 
 <hr>
 
-Proyectos Destacados 
+ <h3>Proyectos Destacados</h3> <b></b>
+<br>
 <ul>
-<li>Desarrollo de una aplicación para impulsar el crecimiento de talentos emergentes permitiendo publicitar eventos, crearlos y vender entradas de una forma rápida y sencilla.</li>
-<li>Proyecto individual de Pokemon</li>
-<li>Backend de servicios</li>
+<li><b>Desarrollo de una aplicación para impulsar el crecimiento de talentos emergentes permitiendo publicitar eventos, crearlos y vender entradas de una forma rápida y sencilla.</b></li>
+<li><b>Proyecto individual de Pokemon</b></li>
+<li><b>Backend de servicios</b></li>
 </ul>
 
+ <hr>
 
-<b> Contáctame</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h3> Contáctame</h3><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <br>
 <div align='left'>
